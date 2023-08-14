@@ -1,0 +1,45 @@
+,Current col name,Suggested col_name
+0,Underground Storage Base Gas,Base_gas
+1,Underground Storage Injections,injections
+2,Underground Storage Withdrawals,withdrawals
+3,Total Underground Storage Capacity,tot_storage_cap
+4,Underground Storage Working Gas,Tot_working
+5,Total Underground Storage,Tot_storage 
+6,Underground Storage Net Withdrawals,Net_withdrawals
+7,Dervied from Weekly Underground Storage - Working Gas,tot_working_weeklydata
+8,Electric Power Consumption,Cons_Elec
+9,Lease and Plant Fuel Consumption,cons_plantfuel
+10,Pipeline Imports,imp_pipe
+11,Gross Withdrawals,Prod_tot
+12,Commercial Consumption,Cons_Comm
+13,Vehicle Fuel Consumption,Cons_Vehfuel
+14,Marketed Production,Prod_marketed
+15,Residential Consumption,Cons_Resi
+16,Liquefied Natural Gas Exports,exp_LNG
+17,Dry Production,Prod_dry
+18,Delivered to Consumers,Prod_delivered
+19,Pipeline Fuel Consumption,Cons_pipefuel
+20,Extraction Loss,ext_loss
+21,Liquefied Natural Gas Imports,imp_LNG
+22,Imports,imp_tot
+23,Exports,exp_tot
+24,Total Consumption,Cons_tot
+25,Industrial Consumption,Cons_ind
+26,Electric Power Price,pr_elec_power
+27,Liquefied Natural Gas Exports Price,pr_LNG_exp
+28,Pipeline Exports,exp_pipe
+29,Exports (Price),pr_exp
+30,LNG Imports (Price),pr_lng_import
+31,Imports Price,pr_imp
+32,Industrial Price,pr_ind
+33,City Gate Price,pr_citygate
+34,Pipeline Exports (Price),pr_pipeexp
+35,Price Delivered to Residential Consumers,pr_resi
+36,Price Delivered to Commercial Sectors,pr_comml
+37,Spot Price,Price_HH
+38,Future Contract 1,Price_k1
+39,Future Contract 2,Price_k2
+40,Future Contract 3,Price_k3
+41,period,per
+42,GAS HOME HEATING CUSTOMER WEIGHTED UNITED STATES MONTH TOTAL,gwhdd
+43,GAS HOME HEATING CUSTOMER WEIGHTED UNITED STATES MON DEV FROM L YEAR,gwhdd_dev

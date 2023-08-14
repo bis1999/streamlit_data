@@ -1,0 +1,41 @@
+,Variable ,Conversion
+0,Underground Storage Base Gas,a
+1,Electric Power Consumption,b
+2,Underground Storage Injections,a
+3,Lease and Plant Fuel Consumption,b
+4,Exports (Price),n
+5,Pipeline Imports,b
+6,LNG Imports (Price),n
+7,Gross Withdrawals,b
+8,Commercial Consumption,b
+9,Vehicle Fuel Consumption,b
+10,Marketed Production,b
+11,Underground Storage Withdrawals,a
+12,Residential Consumption,b
+13,Liquefied Natural Gas Exports,b
+14,Total Underground Storage Capacity,a
+15,Dry Production,b
+16,Underground Storage Working Gas,a
+17,Imports Price,n
+18,Delivered to Consumers,b
+19,Industrial Price,n
+20,Total Underground Storage,a
+21,Pipeline Fuel Consumption,b
+22,City Gate Price,n
+23,Extraction Loss,b
+24,Pipeline Exports (Price),n
+25,Liquefied Natural Gas Imports,b
+26,Imports,b
+27,Exports,b
+28,Price Delivered to Residential Consumers,n
+29,Underground Storage Net Withdrawals,a
+30,Total Consumption,b
+31,Price Delivered to Commercial Sectors,n
+32,Industrial Consumption,b
+33,Electric Power Price,n
+34,Liquefied Natural Gas Exports Price,n
+35,Pipeline Exports,b
+36,Spot Price,n
+37,Future Contract 1,n
+38,Future Contract 2,n
+39,Future Contract 3,n
